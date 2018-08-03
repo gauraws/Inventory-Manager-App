@@ -1,0 +1,94 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/back1" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Change Password"
+            android:layout_marginTop="8dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="30sp"
+            android:textColor="#2d0345"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="134dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="70dp"
+            android:text="Old Password :"
+            android:layout_marginLeft="10sp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="139dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="150dp"
+            android:layout_marginLeft="10sp"
+            android:text="New Password :"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="136dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="240sp"
+            android:layout_marginLeft="10sp"
+            android:text="Confirm Password :"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="22sp" />
+
+        <EditText
+            android:id="@+id/old"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="55dp"
+            android:ems="15"
+            android:inputType="textPassword" >
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/newpass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="135dp"
+            android:ems="15"
+            android:inputType="textPassword" />
+
+        <EditText
+            android:id="@+id/conf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="245sp"
+            android:ems="15"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="350sp"
+            android:textSize="25sp"
+            android:text="Confirm" />
+
+    </FrameLayout>
+
+</LinearLayout>

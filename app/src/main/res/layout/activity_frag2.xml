@@ -1,0 +1,128 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bkg"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_marginTop="18dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/cust"/>
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Customer code"
+            android:layout_marginTop="130dp"
+            android:layout_marginLeft="40dp"
+            android:textStyle="normal"
+            android:textSize="18sp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Customer name"
+            android:layout_marginTop="210dp"
+            android:layout_marginLeft="40dp"
+            android:textStyle="normal"
+            android:textSize="18sp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Address"
+            android:layout_marginTop="370dp"
+            android:layout_marginLeft="40dp"
+            android:textStyle="normal"
+            android:textSize="18sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Phone no."
+            android:layout_marginTop="290dp"
+            android:layout_marginLeft="40dp"
+            android:textStyle="normal"
+            android:textSize="18sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <EditText
+            android:id="@+id/ccode"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            android:padding="6dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="150dp"
+            android:background="@drawable/rectangle"
+            android:ems="10" >
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/cname"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            android:padding="6dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="230dp"
+            android:background="@drawable/rectangle"
+            android:ems="10" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ADD CUSTOMER"
+            android:layout_marginTop="390sp"
+            android:layout_gravity="center_horizontal|bottom"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:background="@android:color/holo_blue_dark"
+            android:textColor="#000"/>
+
+        <EditText
+            android:id="@+id/phone"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            android:padding="6dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="310dp"
+            android:background="@drawable/rectangle"
+            android:ems="10"
+            android:inputType="phone" />
+
+        <EditText
+            android:id="@+id/add"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            android:padding="6dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="390dp"
+            android:background="@drawable/rectangle"
+            android:ems="10"
+            android:inputType="textMultiLine" />
+
+    </FrameLayout>
+
+</LinearLayout>

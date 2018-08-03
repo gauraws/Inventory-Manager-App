@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="android:actionBarStyle">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">#303F9F</item>-->
+        <!--<item name="colorAccent">#FF4081</item>-->
+    </style>
+
+    <!--<style name="details_title">-->
+        <!--<item name="android:textStyle">bold</item>-->
+        <!--<item name="android:layout_marginTop">8dp</item>-->
+    <!--</style>-->
+</resources>

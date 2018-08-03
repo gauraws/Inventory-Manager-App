@@ -1,0 +1,165 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bkg2" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Serial no."
+            android:layout_marginTop="22dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Order no."
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="20sp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Customer code"
+            android:layout_marginTop="140dp"
+            android:layout_marginLeft="20sp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Item code"
+            android:layout_marginTop="200dp"
+            android:layout_marginLeft="20sp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Quantity"
+            android:layout_marginTop="260dp"
+            android:layout_marginLeft="20sp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+                       
+        <Spinner
+            android:id="@+id/orderno"
+            android:layout_width="208dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="160sp"
+            android:layout_marginTop="77dp" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Date" 
+            android:layout_marginTop="320dp"
+            android:layout_marginLeft="20sp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rate"
+            android:layout_marginTop="380dp"
+            android:layout_marginLeft="20sp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <EditText
+            android:id="@+id/date"
+            android:layout_width="wrap_content"
+            android:layout_height="47dp"
+            android:layout_marginLeft="140sp"
+            android:layout_marginTop="314dp"
+            android:ems="10"
+            android:hint="dd/mm/yyyy"
+            android:inputType="date" >
+
+            <requestFocus/>
+</EditText>
+
+        <EditText
+            android:id="@+id/rate"
+            android:layout_width="wrap_content"
+            android:layout_height="47dp"
+            android:layout_marginLeft="140sp"
+            android:layout_marginTop="374dp"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:id="@+id/sno"
+            android:layout_width="208dp"
+            android:layout_height="39dp"
+            android:layout_marginLeft="140sp"
+            android:layout_marginTop="22dp"
+            android:ems="10"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginTop="418sp"
+            android:background="@android:color/holo_orange_dark"
+            android:textColor="#691744"
+            android:text="SELL"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/ccode"
+            android:layout_width="160dp"
+            android:layout_height="39dp"
+            android:layout_marginLeft="200dp"
+            android:layout_marginTop="140dp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/icode"
+            android:layout_width="209dp"
+            android:layout_height="37dp"
+            android:layout_marginLeft="140sp"
+            android:layout_marginTop="200dp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/qty"
+            android:layout_width="209dp"
+            android:layout_height="42dp"
+            android:layout_marginLeft="140sp"
+            android:layout_marginTop="260dp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    </FrameLayout>
+
+</LinearLayout>

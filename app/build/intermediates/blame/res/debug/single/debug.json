@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_items.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\items.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_customers.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\customers.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_location.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_account.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_frag4.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\frag4.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_android.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\android.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gps.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\gps.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gps.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-xhdpi\\gps.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_change.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\change.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gps1.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-xxhdpi\\gps1.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_frag1.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\frag1.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bkg.jpg.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\bkg.jpg"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher3.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher3.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.jpg.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\splash.jpg"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_frag5.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_frag5.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_frag3.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_frag3.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher3.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher3.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_account.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\account.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher3.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher3.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customers.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_customers.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_orders.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_orders.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher3.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher3.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_lock.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_lock.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_empty_box.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\empty_box.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_frag2.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_frag2.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back2.jpg.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\back2.jpg"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_frag3.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\frag3.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cust.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\cust.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher2.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gps.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-mdpi\\gps.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_orders.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\orders.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bkg2.jpg.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\bkg2.jpg"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_item.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\item.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_sell.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\sell.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_change.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_download.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\download.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gps.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-xxhdpi\\gps.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sell.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_sell.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher2.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back1.jpg.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\back1.jpg"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_register.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_avatar.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_avatar.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_open_box.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\open_box.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gps1.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\gps1.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher2.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bkg4.jpg.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\bkg4.jpg"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_frag1.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_frag1.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_splash.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_items.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_items.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_frag2.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\frag2.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_frag5.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\menu\\frag5.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher2.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gps1.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-xhdpi\\gps1.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gps1.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-mdpi\\gps1.png"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bkg1.jpg.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\drawable-hdpi\\bkg1.jpg"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_frag4.xml.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\layout\\activity_frag4.xml"
+    },
+    {
+        "merged": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

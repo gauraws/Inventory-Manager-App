@@ -1,0 +1,190 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bkg">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="25dp"
+        >
+
+
+        <!--<TextView-->
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="60sp"
+            android:text="Name"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="23sp" />
+
+        <!--<TextView-->
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="110sp"
+            android:text="Userid"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="23sp" />
+
+        <!--<TextView-->
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="160sp"
+            android:text="Password"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="23sp" />
+
+        <!--<TextView-->
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="210sp"
+            android:text="Confirm"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="23sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Inventory"
+            android:textColor="#2a5151"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <!--<TextView-->
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="270sp"
+            android:text="Email id"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="23sp" />
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0sp"
+            android:layout_marginTop="83dp"
+            android:hint="Name"
+            android:textColorHint="@android:color/white"
+            android:ems="10"
+            android:layout_gravity="center_horizontal"
+            android:inputType="textPersonName" >
+            <requestFocus />
+            </EditText>
+
+        <EditText
+            android:id="@+id/userid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="183sp"
+            android:hint="Username"
+            android:textColorHint="@android:color/white"
+            android:ems="10" />
+
+        <EditText
+            android:id="@+id/pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="283sp"
+            android:hint="Password"
+            android:textColorHint="@android:color/white"
+            android:ems="10"
+            android:inputType="textPassword" />
+
+        <EditText
+            android:id="@+id/conf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0sp"
+            android:layout_marginTop="383sp"
+            android:hint="Confirm password"
+            android:textColorHint="@android:color/white"
+            android:layout_gravity="center_horizontal"
+            android:ems="10"
+            android:inputType="textPassword" />
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="483sp"
+            android:hint="Email"
+            android:textColorHint="@android:color/white"
+            android:ems="10"
+            android:inputType="textEmailAddress" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="690sp"
+            android:text="CREATE ACCOUNT"
+            android:textColor="@android:color/white"
+            android:background="#1d3e3e"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <!--<TextView-->
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="235sp"
+            android:text="Password"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="23sp" />
+
+        <!--<TextView-->
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Address"
+             android:layout_marginLeft="10sp"
+            android:layout_marginTop="310sp"
+            android:textSize="23sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <EditText
+            android:id="@+id/address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="583sp"
+            android:hint="Enter address"
+            android:textColorHint="@android:color/white"
+            android:inputType="textMultiLine"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="380sp"
+            android:layout_marginTop="583sp"
+            android:src="@drawable/location" />
+
+    </FrameLayout>
+
+</LinearLayout>

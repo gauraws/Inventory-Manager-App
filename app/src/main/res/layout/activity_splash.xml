@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="124dp"
+            android:layout_height="173dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="0sp"
+            android:src="@drawable/open_box" />
+
+        <!--<TextView-->
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Inventory Manager"
+            android:typeface="monospace"
+            android:textStyle="bold"
+            android:layout_marginTop="280sp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp"
+            android:textColor="#ae1534"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <!--<TextView-->
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:layout_marginTop="340sp"
+             android:textSize="23sp"
+             android:textStyle="italic"
+             android:typeface="serif"
+             android:textColor="#691744"
+            android:layout_gravity="center_horizontal"
+            android:text="Making your work easier" />
+
+    </FrameLayout>
+
+</LinearLayout>

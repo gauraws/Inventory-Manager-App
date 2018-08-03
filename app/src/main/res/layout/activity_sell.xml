@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/back1" >
+
+        <ListView
+            android:id="@+id/listView1"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="50sp" >
+
+        </ListView>
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sell log"
+            android:textColor="#2d0345"
+            android:textStyle="bold"
+            android:layout_marginTop="10sp"
+            android:textSize="30sp"
+            android:layout_gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="222dp"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="350dp"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginTop="430sp"
+            android:text="Delete"
+            android:textSize="20sp" />
+
+    </FrameLayout>
+
+</LinearLayout>

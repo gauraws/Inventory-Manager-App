@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inventory Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_frag1">Frag1</string>
+    <string name="title_activity_frag2">Frag2</string>
+    <string name="title_activity_frag3">Frag3</string>
+    <string name="title_activity_frag4">Frag4</string>
+    <string name="title_activity_frag5">Frag5</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="Logout">Logout</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_customers">Customers</string>
+    <string name="title_activity_items">Items</string>
+    <string name="title_activity_orders">Orders</string>
+    <string name="title_activity_sell">Sell</string>
+    <string name="title_activity_account">Account</string>
+    <string name="title_activity_change">Change</string>
+
+</resources>

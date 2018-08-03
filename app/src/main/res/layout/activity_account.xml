@@ -1,0 +1,157 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/back1"
+         >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="My Account"
+            android:textColor="#2d0345"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="60sp"
+            android:text="Name :"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="120sp"
+            android:text="User Id :"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="180sp"
+            android:text="Email :"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="244dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100sp"
+            android:layout_marginTop="55sp"
+            android:editable="false"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:textColor="#000000" >
+            
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="245dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100sp"
+            android:layout_marginTop="175sp"
+            android:editable="false"
+            android:ems="10"
+            android:inputType="textEmailAddress"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/button1"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="71dp"
+            android:layout_height="wrap_content"
+            android:text="Edit"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button2"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100sp"
+            android:layout_marginTop="430sp"
+            android:text="Save"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button3"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="180sp"
+            android:layout_marginTop="430sp"
+            android:text="Change Password"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/pass1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="240sp"
+            android:text="Address :"
+            
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/userid"
+            android:layout_width="243dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="100sp"
+            android:layout_marginTop="115sp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/add"
+            android:layout_width="244dp"
+            android:layout_height="161dp"
+            android:layout_marginLeft="100sp"
+            android:layout_marginTop="240sp"
+            android:editable="false"
+            android:ems="10"
+            android:inputType="textMultiLine"
+            android:textColor="#000000" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_marginLeft="50sp"
+            android:layout_marginTop="280sp"
+            android:src="@drawable/gps1"
+             />
+
+        <Button
+            android:id="@+id/button4"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="430sp"
+            android:textSize="18sp"
+            android:text="Delete" />
+
+    </FrameLayout>
+
+</LinearLayout>

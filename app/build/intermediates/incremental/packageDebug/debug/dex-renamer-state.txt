@@ -1,0 +1,4 @@
+#Sun May 27 11:35:48 IST 2018
+base.0=E\:\\Edu\\AndroidProjects\\Inventory-Android-app-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
